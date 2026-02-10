@@ -5,5 +5,5 @@
 - Based on Rocky / W11 for school 💻
 - Laptop : Lenovo ThinkPad X13 GEN1
 - Based on windows 11 for gaming 🎮
-- W11 Desktop : I3-13100f; RX6600
+- W11 Desktop / Rocky Linux Home-lab: I3-13100f; RX6600; 32Gb 3200Mhz RAM (I AM MOTHERF*CKING RICH DARLING)
 - TEKKEN 8, Initial D, XC2 and JJK enjoyer :)
