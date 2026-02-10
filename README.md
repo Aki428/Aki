@@ -6,4 +6,4 @@
 - Laptop : Lenovo ThinkPad X13 GEN1
 - Based on windows 11 for gaming 🎮
 - W11 Desktop : I3-13100f; RX6600
-- Initial D, XC2 and JJK enjoyer :)
+- TEKKEN 8, Initial D, XC2 and JJK enjoyer :)
