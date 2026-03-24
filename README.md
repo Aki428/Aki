@@ -4,7 +4,7 @@
 - Studying in Btech National Higher Diploma (network option) 📚
 - Based on Rocky / W11 for school 💻
 - Laptop : Lenovo ThinkPad X13 GEN1
-- Based on windows 11 for gaming 🎮
+- Based on Xbox Series S for gaming 🎮
 - OpenMediaVault Home-lab: I5-9500t; RX6600; 16Gb 2666Mhz RAM (I AM MOTHERF*CKING RICH DARLING)
 - TEKKEN 8, Initial D, XC2 and JJK enjoyer :)
 - More about me : mon-portfolio.srvepernon.com
